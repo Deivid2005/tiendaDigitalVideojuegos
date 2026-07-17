@@ -2,7 +2,7 @@
    
   <footer>
     <p>Creado por Deivid Julian Benavides Rodriguez</p>
-    <p>© 2025 Todos los derechos reservados.</p>
+    <p>© 2025 Todos los derechos reservados al creador.</p>
   </footer>
 </template>
 
