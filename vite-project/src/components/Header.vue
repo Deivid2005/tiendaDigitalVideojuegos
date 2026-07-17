@@ -5,7 +5,7 @@
         <div class="enlaces">
             <router-link to="/login"><button class="inicioSesion">Iniciar sesion</button></router-link>
             <router-link to="/info"><p class="option">Acerca De</p></router-link>
-            <router-link to="/soport"><p class="option">Soporte</p></router-link>
+            <router-link to="/soport"><p class="option">Soportes</p></router-link>
          
         </div>
         
